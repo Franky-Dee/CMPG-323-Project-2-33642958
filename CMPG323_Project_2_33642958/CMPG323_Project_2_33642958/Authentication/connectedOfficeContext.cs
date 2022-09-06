@@ -1,6 +1,8 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.AspNetCore.Identity;
+using System.ComponentModel.DataAnnotations;
 
 // Code scaffolded by EF Core assumes nullable reference types (NRTs) are not used or disabled.
 // If you have enabled NRTs for your project, then un-comment the following line:
@@ -8,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Metadata;
 
 namespace CMPG323_Project_2_33642958.Models
 {
-    public partial class connectedOfficeContext : IdentityDbContext<ApplicationUser>
+    public partial class connectedOfficeContext : DbContext
     {
         public connectedOfficeContext()
         {
@@ -27,8 +29,7 @@ namespace CMPG323_Project_2_33642958.Models
         {
             if (!optionsBuilder.IsConfigured)
             {
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
-                optionsBuilder.UseSqlServer("Data Source=frankcmpg323sql.database.windows.net;Initial Catalog=connectedOffice;User ID=serviceadmin;Password=Yomammaisawe@1005");
+                optionsBuilder.UseSqlServer("DefaultConnection");
             }
         }
 
