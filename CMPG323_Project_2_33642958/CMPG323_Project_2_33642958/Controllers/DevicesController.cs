@@ -20,7 +20,7 @@ namespace CMPG323_Project_2_33642958.Controllers
             _context = context;
         }
 
-        // GET: api/Devices [returns all devices]
+        // GET: api/Devices [returns all device entries]
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Device>>> GetDevice()
         {
