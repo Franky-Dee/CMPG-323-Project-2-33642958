@@ -1,3 +1,5 @@
+using CMPG323_Project_2_33642958;
+using CMPG323_Project_2_33642958.Models;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -27,6 +29,8 @@ namespace CMPG323_Project_2_33642958
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddDbContext<connectedOfficeContext>(options => options.UseSqlServer("name=ConnectionStrings:DefaultConnection"));
+            services.AddSwaggerGen(options => { options.SwaggerDoc("v2", new Microsoft.OpenApi.Models.OpenApiInfo { Title = "connectedOffice API test", Version = "v2", Description = "A test for the connectedOffice API", }); });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -47,6 +51,9 @@ namespace CMPG323_Project_2_33642958
             {
                 endpoints.MapControllers();
             });
+            app.UseSwagger();
+            app.UseSwaggerUI(options => options.SwaggerEndpoint("/swagger/v2/swagger.json", "connectedOffice API test"));
+
         }
     }
 }
