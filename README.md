@@ -7,6 +7,23 @@ Within the remote repository, the API project files can be found within the CMPG
 #### Within DeviceController
 - GET: Devices
 - GET: Devices/Details/5
-- GET: Devices/Create
-- POST: Devices/Create
-- GET: Devices/Edit/5
+- PUT: api/Devices/5
+- POST: api/Devices
+- DELETE: api/Devices/5
+
+#### Within ZonesController 
+- GET: api/Zones
+- GET: api/Zones/5
+- PUT: api/Zones/5
+- POST: api/Zones
+- DELETE: api/Zones/5
+
+#### Within CategoriesController 
+- GET: api/Categories
+- GET: api/Categories/5
+- PUT: api/Categories/5
+- POST: api/Categories
+- DELETE: api/Categories/5
+
+### Using the API
+Users would implement the API that connects to a azure sql database and they would then utilize endpoints to manipulate the azure sql database for their own needs.
