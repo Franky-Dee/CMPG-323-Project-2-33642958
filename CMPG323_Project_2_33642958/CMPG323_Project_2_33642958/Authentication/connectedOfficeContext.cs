@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore.Metadata;
 
 namespace CMPG323_Project_2_33642958.Models
 {
-    public partial class connectedOfficeContext : DbContext
+    public partial class connectedOfficeContext : IdentityDbContext<ApplicationUser>
     {
         public connectedOfficeContext()
         {
