@@ -41,7 +41,7 @@ namespace CMPG323_Project_2_33642958.Controllers
             return device;
         }
 
-        // PUT: api/Devices/5 
+        // PUT: api/Devices/5 [updates an existing entry in the database]
         [HttpPut("{id}")]
         public async Task<IActionResult> PutDevice(Guid id, Device device)
         {

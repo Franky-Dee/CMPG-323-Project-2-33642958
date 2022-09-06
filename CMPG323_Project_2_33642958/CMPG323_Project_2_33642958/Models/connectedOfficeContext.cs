@@ -29,7 +29,7 @@ namespace CMPG323_Project_2_33642958.Models
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("DefaultConnection");
+                optionsBuilder.UseSqlServer("Data Source=frankcmpg323sql.database.windows.net;Initial Catalog=connectedOffice;User ID=serviceadmin;Password=Yomammaisawe@1005");
             }
         }
 

@@ -41,9 +41,7 @@ namespace CMPG323_Project_2_33642958.Controllers
             return zone;
         }
 
-        // PUT: api/Zones/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to, for
-        // more details, see https://go.microsoft.com/fwlink/?linkid=2123754.
+        // PUT: api/Zones/5 [updates an existing entry in the database]
         [HttpPut("{id}")]
         public async Task<IActionResult> PutZone(Guid id, Zone zone)
         {
