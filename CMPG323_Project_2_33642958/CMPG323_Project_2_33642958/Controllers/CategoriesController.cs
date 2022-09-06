@@ -27,7 +27,7 @@ namespace CMPG323_Project_2_33642958.Controllers
             return await _context.Category.ToListAsync();
         }
 
-        // GET: api/Categories/5
+        // GET: api/Categories/5 [returns one ecategory entry based on a given id]
         [HttpGet("{id}")]
         public async Task<ActionResult<Category>> GetCategory(Guid id)
         {
