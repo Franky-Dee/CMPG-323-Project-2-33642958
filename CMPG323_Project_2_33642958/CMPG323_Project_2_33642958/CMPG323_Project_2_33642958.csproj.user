@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <NameOfLastUsedPublishProfile>C:\Users\Franco\Desktop\University\Year 3\Semester 2\CMPG323\Project 2\CMPG323_Project_2_33642958\CMPG323_Project_2_33642958\Properties\PublishProfiles\ConnectedOfficeAPI33642958 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\Franco\Desktop\Local repo\Franky-Dee\CMPG-323-Project-2-33642958\CMPG323_Project_2_33642958\CMPG323_Project_2_33642958\Properties\PublishProfiles\CMPG323-Project2 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
     <Controller_SelectedScaffolderID>ApiControllerWithContextScaffolder</Controller_SelectedScaffolderID>
     <Controller_SelectedScaffolderCategoryPath>root/Common/Api</Controller_SelectedScaffolderCategoryPath>
     <WebStackScaffolding_ControllerDialogWidth>650</WebStackScaffolding_ControllerDialogWidth>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
-  <parameter name="IIS Web Application Name" description="" value="ConnectedOfficeAPI33642958" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Franco\\Desktop\\University\\Year\ 3\\Semester\ 2\\CMPG323\\Project\ 2\\CMPG323_Project_2_33642958\\CMPG323_Project_2_33642958\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  <parameter name="IIS Web Application Name" description="" value="CMPG323-Project2" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Franco\\Desktop\\Local\ repo\\Franky-Dee\\CMPG-323-Project-2-33642958\\CMPG323_Project_2_33642958\\CMPG323_Project_2_33642958\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
   </parameter>
 </parameters>
