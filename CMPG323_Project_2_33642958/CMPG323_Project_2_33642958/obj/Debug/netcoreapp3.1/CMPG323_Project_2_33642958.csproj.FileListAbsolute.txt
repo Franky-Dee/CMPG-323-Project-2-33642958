@@ -281,3 +281,14 @@ C:\Users\Franco\Desktop\Local repo\Franky-Dee\CMPG-323-Project-2-33642958\CMPG32
 C:\Users\Franco\Desktop\Local repo\Franky-Dee\CMPG-323-Project-2-33642958\CMPG323_Project_2_33642958\CMPG323_Project_2_33642958\obj\Debug\netcoreapp3.1\CMPG323_Project_2_33642958.dll
 C:\Users\Franco\Desktop\Local repo\Franky-Dee\CMPG-323-Project-2-33642958\CMPG323_Project_2_33642958\CMPG323_Project_2_33642958\obj\Debug\netcoreapp3.1\CMPG323_Project_2_33642958.pdb
 C:\Users\Franco\Desktop\Local repo\Franky-Dee\CMPG-323-Project-2-33642958\CMPG323_Project_2_33642958\CMPG323_Project_2_33642958\obj\Debug\netcoreapp3.1\CMPG323_Project_2_33642958.genruntimeconfig.cache
+C:\Users\Franco\Desktop\Local repo\Franky-Dee\CMPG-323-Project-2-33642958\CMPG323_Project_2_33642958\CMPG323_Project_2_33642958\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Franco\Desktop\Local repo\Franky-Dee\CMPG-323-Project-2-33642958\CMPG323_Project_2_33642958\CMPG323_Project_2_33642958\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Franco\Desktop\Local repo\Franky-Dee\CMPG-323-Project-2-33642958\CMPG323_Project_2_33642958\CMPG323_Project_2_33642958\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Franco\Desktop\Local repo\Franky-Dee\CMPG-323-Project-2-33642958\CMPG323_Project_2_33642958\CMPG323_Project_2_33642958\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Franco\Desktop\Local repo\Franky-Dee\CMPG-323-Project-2-33642958\CMPG323_Project_2_33642958\CMPG323_Project_2_33642958\obj\Debug\netcoreapp3.1\CMPG323_Project_2_33642958.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Franco\Desktop\Local repo\Franky-Dee\CMPG-323-Project-2-33642958\CMPG323_Project_2_33642958\CMPG323_Project_2_33642958\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Franco\Desktop\Local repo\Franky-Dee\CMPG-323-Project-2-33642958\CMPG323_Project_2_33642958\CMPG323_Project_2_33642958\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Franco\Desktop\Local repo\Franky-Dee\CMPG-323-Project-2-33642958\CMPG323_Project_2_33642958\CMPG323_Project_2_33642958\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Franco\Desktop\Local repo\Franky-Dee\CMPG-323-Project-2-33642958\CMPG323_Project_2_33642958\CMPG323_Project_2_33642958\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Franco\Desktop\Local repo\Franky-Dee\CMPG-323-Project-2-33642958\CMPG323_Project_2_33642958\CMPG323_Project_2_33642958\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Franco\Desktop\Local repo\Franky-Dee\CMPG-323-Project-2-33642958\CMPG323_Project_2_33642958\CMPG323_Project_2_33642958\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
